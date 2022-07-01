@@ -1,0 +1,5 @@
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\bin\Release\SDCourseProject.dll
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\bin\Release\SDCourseProject.pdb
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\obj\Release\SDCourseProject.csproj.CoreCompileInputs.cache
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\obj\Release\SDCourseProject.dll
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\obj\Release\SDCourseProject.pdb

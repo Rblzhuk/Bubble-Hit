@@ -1,0 +1,18 @@
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\bin\Debug\SDCourseProject.dll
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\bin\Debug\SDCourseProject.pdb
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\obj\Debug\SDCourseProject.csproj.CoreCompileInputs.cache
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\obj\Debug\SDCourseProject.dll
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\obj\Debug\SDCourseProject.pdb
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\obj\Debug\SDCourseProject.csprojAssemblyReference.cache
+\\41-02\d\3is2\Shilnikov\Курсовой проект\SDCourseProject\bin\Debug\SDCourseProject.dll
+\\41-02\d\3is2\Shilnikov\Курсовой проект\SDCourseProject\bin\Debug\SDCourseProject.pdb
+\\41-02\d\3is2\Shilnikov\Курсовой проект\SDCourseProject\obj\Debug\SDCourseProject.csprojAssemblyReference.cache
+\\41-02\d\3is2\Shilnikov\Курсовой проект\SDCourseProject\obj\Debug\SDCourseProject.csproj.CoreCompileInputs.cache
+\\41-02\d\3is2\Shilnikov\Курсовой проект\SDCourseProject\obj\Debug\SDCourseProject.dll
+\\41-02\d\3is2\Shilnikov\Курсовой проект\SDCourseProject\obj\Debug\SDCourseProject.pdb
+C:\Users\minec\Downloads\SDCourseProject\bin\Debug\SDCourseProject.dll
+C:\Users\minec\Downloads\SDCourseProject\bin\Debug\SDCourseProject.pdb
+C:\Users\minec\Downloads\SDCourseProject\obj\Debug\SDCourseProject.csprojAssemblyReference.cache
+C:\Users\minec\Downloads\SDCourseProject\obj\Debug\SDCourseProject.csproj.CoreCompileInputs.cache
+C:\Users\minec\Downloads\SDCourseProject\obj\Debug\SDCourseProject.dll
+C:\Users\minec\Downloads\SDCourseProject\obj\Debug\SDCourseProject.pdb

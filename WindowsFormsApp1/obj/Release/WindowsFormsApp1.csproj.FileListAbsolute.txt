@@ -1,0 +1,13 @@
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\bin\Release\SDCourseProject.dll
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\bin\Release\SDCourseProject.pdb
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CopyComplete
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb

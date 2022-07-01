@@ -1,0 +1,12 @@
+\\41-02\d\3is2\Shilnikov\Курсовой проект\SDCourseProject\bin\Debug\SDCourseProject.dll
+\\41-02\d\3is2\Shilnikov\Курсовой проект\SDCourseProject\bin\Debug\SDCourseProject.pdb
+\\41-02\d\3is2\Shilnikov\Курсовой проект\SDCourseProject\obj\Debug\BubbleHit.csprojAssemblyReference.cache
+\\41-02\d\3is2\Shilnikov\Курсовой проект\SDCourseProject\obj\Debug\BubbleHit.csproj.CoreCompileInputs.cache
+\\41-02\d\3is2\Shilnikov\Курсовой проект\SDCourseProject\obj\Debug\SDCourseProject.dll
+\\41-02\d\3is2\Shilnikov\Курсовой проект\SDCourseProject\obj\Debug\SDCourseProject.pdb
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\bin\Debug\SDCourseProject.dll
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\bin\Debug\SDCourseProject.pdb
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\obj\Debug\BubbleHit.csprojAssemblyReference.cache
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\obj\Debug\BubbleHit.csproj.CoreCompileInputs.cache
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\obj\Debug\SDCourseProject.dll
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\obj\Debug\SDCourseProject.pdb
