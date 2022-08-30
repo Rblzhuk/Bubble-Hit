@@ -88,7 +88,7 @@ namespace SDCourseProject
             StartGame();
         }
 
-        
+
         #region свойства int
         private int XPlayField
         {
@@ -852,13 +852,19 @@ namespace SDCourseProject
         {
             base.SetBoundsCore(x, y, width, height, specified);
 
+            if (isBallFlying) { isBallFlying = !isBallFlying;}
+
+
             BallSize = BallSize;
             WidthPlayField = _widthPlayField;
             HeightPlayField = _heightPlayField;
             XPlayField = XPlayField;
             YPlayFiled = YPlayFiled;
             XPlayBall = XPlayBall;
-            YPlayBall = YPlayBall;
+
+            YPlayBall = YPlayFiled + HeightPlayField - BallSize;
+            ballStartY = YPlayBall;
+
             XDefeatLine = XDefeatLine;
             YDefeatLine = YDefeatLine;
 
