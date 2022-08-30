@@ -37,3 +37,17 @@ C:\Users\minec\Downloads\SDCourseProject\WindowsFormsApp1\bin\Debug\WindowsForms
 C:\Users\minec\Downloads\SDCourseProject\WindowsFormsApp1\bin\Debug\SDCourseProject.dll
 C:\Users\minec\Downloads\SDCourseProject\WindowsFormsApp1\bin\Debug\SDCourseProject.pdb
 C:\Users\minec\Downloads\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Dima\Downloads\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Dima\Downloads\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dima\Downloads\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Dima\Downloads\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Dima\Downloads\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Dima\Downloads\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Downloads\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Dima\Downloads\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Dima\Downloads\SDCourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Dima\Downloads\SDCourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Dima\Downloads\SDCourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Dima\Downloads\SDCourseProject\WindowsFormsApp1\bin\Debug\SDCourseProject.dll
+C:\Users\Dima\Downloads\SDCourseProject\WindowsFormsApp1\bin\Debug\SDCourseProject.pdb
+C:\Users\Dima\Downloads\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
