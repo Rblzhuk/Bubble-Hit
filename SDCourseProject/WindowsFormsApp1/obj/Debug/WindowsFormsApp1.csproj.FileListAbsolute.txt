@@ -1,0 +1,104 @@
+G:\SDCourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\SDCourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\SDCourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\SDCourseProject\WindowsFormsApp1\bin\Debug\SDCourseProject.dll
+G:\SDCourseProject\WindowsFormsApp1\bin\Debug\SDCourseProject.pdb
+G:\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+G:\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+G:\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Downloads\SDCourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Downloads\SDCourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Downloads\SDCourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Downloads\SDCourseProject\WindowsFormsApp1\bin\Debug\SDCourseProject.dll
+C:\Users\user\Downloads\SDCourseProject\WindowsFormsApp1\bin\Debug\SDCourseProject.pdb
+C:\Users\user\Downloads\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\user\Downloads\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Downloads\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Downloads\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Downloads\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\user\Downloads\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Downloads\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\minec\Downloads\SDCourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\minec\Downloads\SDCourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\minec\Downloads\SDCourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\minec\Downloads\SDCourseProject\WindowsFormsApp1\bin\Debug\SDCourseProject.dll
+C:\Users\minec\Downloads\SDCourseProject\WindowsFormsApp1\bin\Debug\SDCourseProject.pdb
+C:\Users\minec\Downloads\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\minec\Downloads\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\minec\Downloads\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\minec\Downloads\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\minec\Downloads\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\minec\Downloads\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\minec\Downloads\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\minec\Downloads\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\3is2\Shilnikov\Курсовой проект\Курсовой проект\SDCourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\3is2\Shilnikov\Курсовой проект\Курсовой проект\SDCourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\3is2\Shilnikov\Курсовой проект\Курсовой проект\SDCourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\3is2\Shilnikov\Курсовой проект\Курсовой проект\SDCourseProject\WindowsFormsApp1\bin\Debug\SDCourseProject.dll
+D:\3is2\Shilnikov\Курсовой проект\Курсовой проект\SDCourseProject\WindowsFormsApp1\bin\Debug\SDCourseProject.pdb
+D:\3is2\Shilnikov\Курсовой проект\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\3is2\Shilnikov\Курсовой проект\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\3is2\Shilnikov\Курсовой проект\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\3is2\Shilnikov\Курсовой проект\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\3is2\Shilnikov\Курсовой проект\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\3is2\Shilnikov\Курсовой проект\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\3is2\Shilnikov\Курсовой проект\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\3is2\Shilnikov\Курсовой проект\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\bin\Debug\SDCourseProject.dll
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\bin\Debug\SDCourseProject.pdb
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\3is2\Shilnikov\SDCourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\3is2\Shilnikov\SDCourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\3is2\Shilnikov\SDCourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\3is2\Shilnikov\SDCourseProject\WindowsFormsApp1\bin\Debug\SDCourseProject.dll
+D:\3is2\Shilnikov\SDCourseProject\WindowsFormsApp1\bin\Debug\SDCourseProject.pdb
+D:\3is2\Shilnikov\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\3is2\Shilnikov\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\3is2\Shilnikov\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\3is2\Shilnikov\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\3is2\Shilnikov\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\3is2\Shilnikov\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\3is2\Shilnikov\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\3is2\Shilnikov\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+\\41-02\d\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+\\41-02\d\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+\\41-02\d\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+\\41-02\d\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\bin\Debug\SDCourseProject.dll
+\\41-02\d\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\bin\Debug\SDCourseProject.pdb
+\\41-02\d\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+\\41-02\d\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+\\41-02\d\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+\\41-02\d\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+\\41-02\d\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+\\41-02\d\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+\\41-02\d\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+\\41-02\d\3is2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\3ИС2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\3ИС2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\3ИС2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\3ИС2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\bin\Debug\SDCourseProject.dll
+D:\3ИС2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\bin\Debug\SDCourseProject.pdb
+D:\3ИС2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\3ИС2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\3ИС2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\3ИС2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\3ИС2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\3ИС2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\3ИС2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\3ИС2\Shilnikov\Курсовой проект\SDCourseProject\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
